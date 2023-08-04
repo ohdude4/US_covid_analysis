@@ -1,0 +1,30 @@
+﻿Data as of,Age group,COVID-19 Deaths,Indicator,Sex,Race or Hispanic Origin Group,Start Week,End Week
+03/01/2023,0-4 years,679,Age,All,All,01/04/2020,02/25/2023
+03/01/2023,5-18 years,"1,017",Age,All,All,01/04/2020,02/25/2023
+03/01/2023,19-44 years,"44,117",Age,All,All,01/04/2020,02/25/2023
+03/01/2023,45-64 years,"227,421",Age,All,All,01/04/2020,02/25/2023
+03/01/2023,65-74 years,"250,890",Age,All,All,01/04/2020,02/25/2023
+03/01/2023,75 years and over,"589,425",Age,All,All,01/04/2020,02/25/2023
+03/01/2023,All ages,"1,113,549",Age,All,All,01/04/2020,02/25/2023
+03/01/2023,0-4 years,305,Sex,Female,All,01/04/2020,02/25/2023
+03/01/2023,0-4 years,374,Sex,Male,All,01/04/2020,02/25/2023
+03/01/2023,5-18 years,463,Sex,Female,All,01/04/2020,02/25/2023
+03/01/2023,5-18 years,554,Sex,Male,All,01/04/2020,02/25/2023
+03/01/2023,0-4 years,160,Race and Hispanic Origin,All,Hispanic,01/04/2020,02/25/2023
+03/01/2023,0-4 years,10,Race and Hispanic Origin,All,Non-Hispanic American Indian or Alaska Native,01/04/2020,02/25/2023
+03/01/2023,0-4 years,21,Race and Hispanic Origin,All,Non-Hispanic Asian,01/04/2020,02/25/2023
+03/01/2023,0-4 years,180,Race and Hispanic Origin,All,Non-Hispanic Black,01/04/2020,02/25/2023
+03/01/2023,0-4 years,28,Race and Hispanic Origin,All,Non-Hispanic More than one race,01/04/2020,02/25/2023
+03/01/2023,0-4 years,8,Race and Hispanic Origin,All,Non-Hispanic Native Hawaiian or Other Pacific Islander,01/04/2020,02/25/2023
+03/01/2023,0-4 years,267,Race and Hispanic Origin,All,Non-Hispanic White,01/04/2020,02/25/2023
+03/01/2023,0-4 years,679,Race and Hispanic Origin,All,Total,01/04/2020,02/25/2023
+03/01/2023,0-4 years,5,Race and Hispanic Origin,All,Unknown,01/04/2020,02/25/2023
+03/01/2023,5-18 years,280,Race and Hispanic Origin,All,Hispanic,01/04/2020,02/25/2023
+03/01/2023,5-18 years,17,Race and Hispanic Origin,All,Non-Hispanic American Indian or Alaska Native,01/04/2020,02/25/2023
+03/01/2023,5-18 years,39,Race and Hispanic Origin,All,Non-Hispanic Asian,01/04/2020,02/25/2023
+03/01/2023,5-18 years,245,Race and Hispanic Origin,All,Non-Hispanic Black,01/04/2020,02/25/2023
+03/01/2023,5-18 years,22,Race and Hispanic Origin,All,Non-Hispanic More than one race,01/04/2020,02/25/2023
+03/01/2023,5-18 years,7,Race and Hispanic Origin,All,Non-Hispanic Native Hawaiian or Other Pacific Islander,01/04/2020,02/25/2023
+03/01/2023,5-18 years,404,Race and Hispanic Origin,All,Non-Hispanic White,01/04/2020,02/25/2023
+03/01/2023,5-18 years,"1,017",Race and Hispanic Origin,All,Total,01/04/2020,02/25/2023
+03/01/2023,5-18 years,3,Race and Hispanic Origin,All,Unknown,01/04/2020,02/25/2023

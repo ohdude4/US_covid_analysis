@@ -1,0 +1,13 @@
+运用PySpark以及Plotly的美国新冠肺炎分析与可视化
+
+在Windows本地运行Spark程序需要hadoop winutils环境，详情见：https://github.com/steveloughran/winutils
+
+文件后缀为_local为spark本地运行模式，_yarn为yarn集群运行模式。对于数据量大的文件，local模式只采用了一部分的数据分片。对于数据量小的文件，所有数据都在local里处理。、
+
+/plot_output目录下对数据可视化图表的html文件。/data_output为/src/data_processing/data_each_state_local.py的数据处理结果
+
+
+data_each_state_local.py
+对原始数据的处理，由于原始数据集没有日新增病例，此处使用spark计算日新增死亡，确诊数据，并保存在/data_output目录下
+
+Kmeans聚类分析，使用平均最高最低气温，新冠死亡数据，以及人口数据作为参数，对其进行聚类分析。
