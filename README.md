@@ -1,1 +1,7 @@
-# US_covid_analysis
+# 运用PySpark以及Plotly的美国新冠肺炎分析与可视化
+这是一个使用PySpark对美国新冠肺炎的简单分析
+在Windows本地运行Spark程序需要hadoop winutils环境，详情见：https://github.com/steveloughran/winutils
+
+文件后缀为_local为spark本地运行模式，_yarn为yarn集群运行模式。对于数据量大的文件，local模式只采用了一部分的数据分片。对于数据量小的文件，所有数据都在local里处理。
+
+/plot_output目录下对数据可视化图表的html文件。/data_output为/src/data_processing/data_each_state_local.py的数据处理结果
